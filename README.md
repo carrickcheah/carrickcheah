@@ -14,7 +14,7 @@ I am a Data Scientist and Machine Learning enthusiast who is passionate about bu
 
 ## Connect with Me
 
-- **GitHub:** [github.com/carrickcheah/predict-btc](https://github.com/carrickcheah)
+- **GitHub:** [github.com/carrickcheah](https://github.com/carrickcheah)
 - **LinkedIn:** [linkedin.com/in/carrickcheah/](https://linkedin.com/in/carrickcheah/)
 - **Medium:** [medium.com/@carrick113](https://medium.com/@carrick113)
 
